@@ -471,7 +471,8 @@ p {
     margin-right: 0;
 }
 
-.info .info-item .fa {
+.info .info-item .fa,
+.info .info-item .fas {
     margin-right: 10px;
 }
 
@@ -2504,7 +2505,8 @@ ul.list-inline.bullet-lists li:hover {
     padding: 8px 0;
 }
 
-.contact-info .contact-info-item .fa {
+.contact-info .contact-info-item .fa,
+.contact-info .contact-info-item .fas {
     color: #F7941D;
     font-size: 24px;
     margin-right: 20px;
